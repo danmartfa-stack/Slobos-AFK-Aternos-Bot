@@ -5,9 +5,13 @@
     "password": "",
     "type": "offline"
   },
+  "sever": 
+  "ip": "TheBeshs.aternos.me"
+  "port": 12206,
+  
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheBeshs.aternos.me",
+    "port": 12206,
     "version": "",
     "try-creative": false
   },
